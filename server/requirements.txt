@@ -35,4 +35,5 @@ fastapi-mail==1.4.2
 cryptography==43.0.3
 
 
-pyotp==2.9.0Pillow==12.3.0
+pyotp==2.9.0
+Pillow==12.3.0
